@@ -11,10 +11,9 @@ Analyse complète données healthcare simulées **Hôpital Goma 2025** :
 ## 📁 Structure Projet
 
 01_EDA_Healthcare_Goma.ipynb # Analyse exploratoire
-├── 02_ML_Prediction_Urgences.ipynb # RandomForest + XGBoost
-├── goma_healthcare_clean.csv # Dataset nettoyé
-├── eda_numerique_goma.png # 6 graphiques EDA
-└── correlation_heatmap_goma.png
+02_ML_Prediction_Urgences.ipynb # RandomForest + XGBoost
+healthcare_predictive_dataset.csv # Dataset nettoyé
+
 
 ## 👨‍⚕️ Auteur
 **Dr. Armel Aganze** | Médecin | Data Scientist  
